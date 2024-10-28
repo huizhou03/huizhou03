@@ -61,10 +61,6 @@ Currently in my final year of Cross-Platform Development at the European Univers
 
 
 ---
-
-Credit: [Alejandro Cañadas](https://github.com/AlexCanadas)
-Last Edited on: 10/10/2024
-
 <!---
 huizhou03/huizhou03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
